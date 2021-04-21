@@ -1,2 +1,2 @@
-# project2
-# Fashion Blog Website
+# https://bilal74.github.io/Basic-E-Commerce/
+# Basics E-Commerce
